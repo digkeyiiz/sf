@@ -1,0 +1,8 @@
+{
+  "name": "Special Force: Strike Ops",
+  "description": "เกมยิงปืน 3D ออนไลน์สไตล์ Special Force สร้างห้องเล่นกับเพื่อนได้ทันที พร้อมแผนที่รบ 3 สนาม และอาวุธครบมือ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "SF-942DRY": {
+    "accountId": "SF-942DRY",
+    "name": "Officer-2DRY",
+    "exp": 0,
+    "sp": 500,
+    "totalKills": 0,
+    "totalHeadshots": 0,
+    "totalDeaths": 0,
+    "matchesPlayed": 0,
+    "wins": 0,
+    "clearedStages": [],
+    "ownedItems": [
+      "swat_navy",
+      "police_patrol",
+      "police_cap",
+      "none",
+      "police_kevlar",
+      "standard"
+    ],
+    "loadout": {
+      "uniformId": "swat_navy",
+      "headgearId": "police_cap",
+      "facegearId": "none",
+      "vestId": "police_kevlar",
+      "weaponSkinId": "standard"
+    },
+    "createdAt": 1795511885813
+  }
+}
